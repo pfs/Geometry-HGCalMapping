@@ -1,6 +1,7 @@
 plane u v typecode econdidx captureblock captureblockidx slinkidx fedid zside
-1 5 1 MH-F1W 0 0 0 0 0 -1
-1 5 2 ML-F2W 1 0 0 0 0 -1
-2 5 2 ML-F2W 0 0 0 0 1 -1
-2 5 3 ML-F2W 1 0 0 0 1 -1
-2 5 4 ML-F2W 2 0 0 0 1 -1
+1 5 1 ML-F3PT-TX-0003 0 0 0 0 49 -1
+1 5 2 ML-F3PC-MX-0003 1 0 0 0 49 -1
+1 5 2 ML-F3PC-MX-0004 2 0 0 0 49 -1
+1 5 3 ML-F2WX-IH-0011 3 0 0 0 49 -1
+1 5 4 ML-F3PT-TX-0001 4 0 0 0 49 -1
+1 5 5 ML-F3PT-TX-0002 5 0 0 0 49 -1
